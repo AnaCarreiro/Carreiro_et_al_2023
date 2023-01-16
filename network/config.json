@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Carreiro et al"
+  },
+  "text": {
+    "more": "The colour of each node corresponds to modules, the size of the nodes was made proportional to the degree of the node, and the edge thickness was made proportional to the frequency of occurrence of each interaction.\nMOTUs that are considered network hubs are marked with letters (a-e).",
+    "intro": "Graphical representation of the network at seasonal level.",
+    "title": "Network analysis at seasonal scale."
+  },
+  "legend": {
+    "edgeLabel": "FO",
+    "colorLabel": "Modularity",
+    "nodeLabel": "Predators and Prey"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "season",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
