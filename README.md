@@ -2,4 +2,4 @@
 
 # Network analysis using DNA metabarcoding data discloses important roles and links in the seabird community of the Eastern Tropical Atlantic
 
-Abstract
+Access to the [dynamic graphical representation of the network obtained at a seasonal level (Fig. 2.c)](/network/)
