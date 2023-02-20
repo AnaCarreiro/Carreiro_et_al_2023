@@ -4,4 +4,4 @@
 
 Access to the [dynamic graphical representation of the network obtained at a seasonal level (Fig. 2.c)](network/)
 
-Acess to the [RMarkdown with the script used in the analysis of this work, together with its results](Carreiro_et_al_Analysis_v1.0.html)
+Access to the [RMarkdown with the script used in the analysis of this work, together with its results](Carreiro_et_al_Analysis_v1.0.html)
